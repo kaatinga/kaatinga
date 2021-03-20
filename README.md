@@ -2,7 +2,7 @@
 
 You landed in my programming cave.
 
-My name is Michael Gunkoff, 🔭 I am Software Developer at Qvant.
+My name is Michael Gunkoff, 🔭 I am Software Developer.
 
 My main tool 🌱 is Go programming language currently.
 
